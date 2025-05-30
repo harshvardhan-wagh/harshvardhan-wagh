@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20To%20My%20Profile!&fontSize=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20Everyone!&fontSize=50&animation=fadeIn)
 <!--
 
 **harshvardhan-wagh/harshvardhan-wagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
