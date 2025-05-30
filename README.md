@@ -1,4 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20Everyone!&fontSize=50&animation=fadeIn)
+
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 <!--
 
 **harshvardhan-wagh/harshvardhan-wagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
